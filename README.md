@@ -94,6 +94,9 @@
                  BLACK IS NOT EMPTY.
                     IT'S THE CANVAS.
 ```
+<p align="center">
+<img src="./assets/ascii-motion.gif" width="100%" alt="ASCII portrait"/>
+</p>
 
 ---
 

@@ -97,7 +97,7 @@
 
 ---
 
-## `04` /  GitHub · statistics
+## `03` /  GitHub · statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abaddonedxvii&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
@@ -110,7 +110,7 @@
 
 ---
 
-## `05` /  philosophy
+## `04` /  philosophy
 
 ```text
         ┌─────────────────────────────────────────────┐

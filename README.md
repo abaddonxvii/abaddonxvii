@@ -42,7 +42,7 @@
 │  languages    Python · C++ · HTML · JavaScript · Java                          │
 │  style        dark / minimal / japanese / experimental                         │
 │                                                                                │
-│  「 静かなコード。強い結果。 」                                                    │
+│  「 静かなコード。強い結果。 」                                                     │
 │    quiet code. strong results.                                                 │
 │                                                                                │
 └────────────────────────────────────────────────────────────────────┘

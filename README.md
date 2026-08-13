@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="./assets/ascii-portrait.jpg" width="100%" alt="ASCII portrait"/>
+<img src="./assets/pixel-art.jpg" width="100%" alt="ASCII portrait"/>
 </p>
 
 ```text

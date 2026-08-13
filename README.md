@@ -139,3 +139,27 @@
 <p align="center">
   <sub>Designed in the dark. Written in code. Powered by unreasonable amounts of curiosity.</sub>
 </p>
+
+---
+
+## `05` /  项目 · projects & portfolio
+
+<p align="center">
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/PORTFOLIO-live_site-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Site"/>
+  </a>
+</p>
+
+```text
+┌─ FEATURED ──────────────────────────────────────────────────────────┐
+│                                                                     │
+│  [01] Portfolio Web   ──> Minimalistic dark showcase UI             │
+│  [02] Web App / Tool  ──> Interactive frontend & custom logic       │
+│  [03] Experiments     ──> C++ / Python scripts & system stuff       │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+<img src="./assets/ascii-portrait.jpg" width="100%" alt="ASCII portrait"/>
+</p>

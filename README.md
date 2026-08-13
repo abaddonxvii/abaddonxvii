@@ -4,6 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=000000&fontColor=ffffff&text=ABADDONEDXVII&fontSize=42&fontAlignY=40&desc=code%20%2F%20create%20%2F%20break%20%2F%20rebuild&descAlignY=62&descSize=16" alt="ABADDONEDXVII banner"/>
 </p>
 
+<p align="center">
+<img src="./assets/ascii-portrait.jpg" width="100%" alt="ASCII portrait"/>
+</p>
+
 ```text
 ╔══════════════════════════════════════════════════════════════════════╗
 ║                                                                                   ║

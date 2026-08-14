@@ -107,9 +107,16 @@
 
 <p align="center">
   <a href="https://github.com/abaddonxvii">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaddonxvii&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=8&theme=dark" alt="Top Languages"/>
+    <img src="https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api/top-langs/?username=abaddonxvii&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/abaddonxvii">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abaddonxvii&theme=2077" alt="Profile Summary"/>
+  </a>
+</p>
+
 
 ---
 

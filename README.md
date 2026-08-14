@@ -100,12 +100,15 @@
 ## `03` /  GitHub · statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abaddonedxvii&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" height="170" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaddonedxvii&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" height="170" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abaddonedxvii&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abaddonedxvii&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abaddonedxvii&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/streak-stats/?user=abaddonedxvii&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=666666&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak"/>
 </p>
 
 ---

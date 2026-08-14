@@ -85,7 +85,7 @@
 | <img src="https://cdn.simpleicons.org/gnubash/white" width="22" height="22" alt="Terminal"/> | Kitty |
 | <img src="https://cdn.simpleicons.org/wayland/white" width="22" height="22" alt="Compositor"/> | Hyprland / Niri |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="22" height="22" alt="Editor"/> | Neovim / VS Code |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="22" height="22" alt="Aesthetic"/> | Dark Japanese / AMOLED |
+<img src="https://cdn.simpleicons.org/sakura/white" width="22" height="22" alt="Sakura"/>| Dark Japanese / AMOLED |
 
 
 ### Security & Pentesting Tools

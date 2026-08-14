@@ -187,7 +187,13 @@
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
- |
+### 📂 Featured Repositories
+
+| Project | Description | Tech Stack |
+|:---|:---|:---|
+| 🌌 **[dotfiles](#)** | Custom Dark Japanese Hyprland & Niri setup | `Wayland` `Zsh` `Kitty` |
+| ⚡ **[web-project](#)** | Modern full-stack web application | `Next.js` `Prisma` `Tailwind` |
+
 
 
 <p align="center">

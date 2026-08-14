@@ -56,52 +56,34 @@
 
 ### Languages
 
-<p align="left">
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="54" height="54" alt="Python"/></a>&nbsp;
-  <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="54" height="54" alt="C++"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="54" height="54" alt="HTML5"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="54" height="54" alt="JavaScript"/></a>&nbsp;
-  <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="54" height="54" alt="Java"/></a>
-</p>
-
-| Language | Focus |
+| Icon | Focus |
 |:---:|:---|
-| 🐍 **Python** | automation, tooling, backend & experiments |
-| ⚙️ **C++** | performance, systems & low-level experiments |
-| 🌐 **HTML** | structure, semantic web & UI |
-| `JS` **JavaScript** | interactive web, frontend & logic |
-| ☕ **Java** | applications, OOP & backend experiments |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="22" height="22" alt="Python"/> | automation, security scripting, tooling, backend & experiments |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="22" height="22" alt="C++"/> | performance, reverse engineering, systems & low-level experiments |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="22" height="22" alt="HTML5"/> | structure, semantic web & UI |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="22" height="22" alt="JavaScript"/> | interactive web, frontend & web security research |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="22" height="22" alt="Java"/> | applications, OOP & backend experiments |
+
 
 ### Tools & ecosystem
 
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="42" height="42" alt="Arch Linux"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original.svg" width="42" height="42" alt="Gentoo"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="42" height="42" alt="NixOS"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
-</p>
-
-| OS / Env | Notes |
+| Icon | Notes |
 |:---:|:---|
-| 🪟 **Arch Linux** | daily driver, custom rice, minimalistic setup |
-| 🧬 **Gentoo** | source-compiled optimization & deep system control |
-| ⚡ **Void Linux** | runit init speed, lightweight minimalist environment |
-| ❄️ **NixOS** | reproducible configurations & declarative system management |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="22" height="22" alt="Arch Linux"/> | daily driver, custom rice, minimalistic setup |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original.svg" width="22" height="22" alt="Gentoo"/> | source-compiled optimization & deep system control |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="22" height="22" alt="Void Linux"/> | runit init speed, lightweight minimalist environment |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="22" height="22" alt="NixOS"/> | reproducible configurations & declarative system management |
+
 
 ### Security & Pentesting Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
-  <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  <img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
-  <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
-</p>
-
-* **Network Analysis & Audit:** `Nmap`, `Wireshark`, `tcpdump`
-* **Web Security:** `Burp Suite`, `OWASP ZAP`, `sqlmap`, `ffuf`
-* **Exploitation & Research:** `Metasploit`, `GDB`, custom Python/C++ exploits
-* 
+| Icon | Focus |
+|:---:|:---|
+| <img src="https://img.shields.io/badge/Kali-111111?style=flat-square&logo=kalilinux&logoColor=white"/> | penetration testing, security audit OS environment |
+| <img src="https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=white"/> | network protocol analysis & traffic inspection |
+| <img src="https://img.shields.io/badge/Burp_Suite-111111?style=flat-square&logo=burpsuite&logoColor=white"/> | web security testing, HTTP request manipulation & proxy |
+| <img src="https://img.shields.io/badge/Metasploit-111111?style=flat-square&logo=metasploit&logoColor=white"/> | exploit development & vulnerability verification |
 
 
 ```text

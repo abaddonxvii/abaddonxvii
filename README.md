@@ -77,6 +77,14 @@
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="22" height="22" alt="NixOS"/> | reproducible configurations & declarative system management |
 
 
+### Environment & Workflow
+
+| Icon | Setup |
+|:---:|:---|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="22" height="22" alt="Shell"/> | Zsh + Starship / Fish |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" width="22" height="22" alt="WM/DE"/> | Hyprland / Neovim / Kitty |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="22" height="22" alt="Theme"/> | Custom AMOLED / Neon Green Minimal |
+
 ### Security & Pentesting Tools
 
 | Icon | Focus |

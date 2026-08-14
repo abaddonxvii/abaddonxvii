@@ -100,16 +100,23 @@
 ## `03` /  GitHub · statistics
 
 <p align="center">
-  <a href="https://github.com/abaddonedxvii">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abaddonedxvii&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff" alt="Activity Graph"/>
+  <a href="https://github.com/abaddonxvii">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abaddonxvii&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub stats"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/abaddonedxvii">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abaddonedxvii&theme=2077" alt="GitHub Profile Summary"/>
+  <a href="https://github.com/abaddonxvii">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abaddonxvii&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" alt="Top languages"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/abaddonxvii">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abaddonxvii&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff" alt="Activity Graph"/>
+  </a>
+</p>
+
 
 
 ---

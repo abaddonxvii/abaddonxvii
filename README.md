@@ -96,26 +96,26 @@
 </p>
 
 ---
+
 ## `03` /  GitHub · statistics
 
 <p align="center">
   <a href="https://github.com/abaddonedxvii">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abaddonedxvii&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+    <img src="https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api?username=abaddonedxvii&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub stats"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/abaddonedxvii">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abaddonedxvii&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" alt="Top languages"/>
+    <img src="https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api/top-langs/?username=abaddonedxvii&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" alt="Top languages"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/abaddonedxvii">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=abaddonedxvii&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abaddonedxvii&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff" alt="GitHub streak"/>
   </a>
 </p>
-
 
 ---
 

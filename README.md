@@ -74,14 +74,34 @@
 
 ### Tools & ecosystem
 
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="42" height="42" alt="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" width="42" height="42" alt="Arch Linux"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gentoo/gentoo-original.svg" width="42" height="42" alt="Gentoo"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" width="42" height="42" alt="NixOS"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/>
 </p>
 
----
+| OS / Env | Notes |
+|:---:|:---|
+| 🪟 **Arch Linux** | daily driver, custom rice, minimalistic setup |
+| 🧬 **Gentoo** | source-compiled optimization & deep system control |
+| ⚡ **Void Linux** | runit init speed, lightweight minimalist environment |
+| ❄️ **NixOS** | reproducible configurations & declarative system management |
+
+### Security & Pentesting Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali_Linux-111111?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Wireshark-111111?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Burp_Suite-111111?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite"/>
+  <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit"/>
+</p>
+
+* **Network Analysis & Audit:** `Nmap`, `Wireshark`, `tcpdump`
+* **Web Security:** `Burp Suite`, `OWASP ZAP`, `sqlmap`, `ffuf`
+* **Exploitation & Research:** `Metasploit`, `GDB`, custom Python/C++ exploits
+* 
 
 
 ```text

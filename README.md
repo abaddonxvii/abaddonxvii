@@ -10,47 +10,19 @@
 
 ```text
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                                         ║
-║  ██████╗ ██████╗  █████╗ ██████╗ ██████╗  ██████╗ ███╗   ██╗                   ║
-║  ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔═══██╗████╗  ██║                 ║
-║  ███████║██████╔╝███████║██║  ██║██║  ██║██║   ██║██╔██╗ ██║                  ║
-║  ██╔══██║██╔══██╗██╔══██║██║  ██║██║  ██║██║   ██║██║╚██╗██║                  ║
-║  ██║  ██║██████╔╝██║  ██║██████╔╝██████╔╝╚██████╔╝██║ ╚████║                  ║
-║  ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝                   ║
-║                                                                                         ║
-║                      「 コードは芸術、バグは仕様 」                                         ║
-║                       code is art, bugs are features                                    ║
-║                                                                                         ║
+║                                                                                        ║
+║  ██████╗ ██████╗  █████╗ ██████╗ ██████╗  ██████╗ ███╗   ██╗                  ║
+║  ██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔══██╗██╔═══██╗████╗  ██║                ║
+║  ███████║██████╔╝███████║██║  ██║██║  ██║██║   ██║██╔██╗ ██║                 ║
+║  ██╔══██║██╔══██╗██╔══██║██║  ██║██║  ██║██║   ██║██║╚██╗██║                 ║
+║  ██║  ██║██████╔╝██║  ██║██████╔╝██████╔╝╚██████╔╝██║ ╚████║                 ║
+║  ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝                  ║
+║                                                                                        ║
+║                      「 コードは芸術、バグは仕様 」                                        ║
+║                       code is art, bugs are features                                   ║
+║                                                                                        ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 
-```
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abaddonedxvii&style=for-the-badge&color=111111&label=PROFILE+VIEWS" alt="profile views"/>
-  <img src="https://img.shields.io/badge/status-building-111111?style=for-the-badge&logo=github&logoColor=white" alt="status"/>
-  <img src="https://img.shields.io/badge/aesthetic-AMOLED-111111?style=for-the-badge&logo=android&logoColor=white" alt="AMOLED"/>
-</p>
-
----
-
-## `01` /  自己紹介 · about
-
-> **abaddonedxvii** — web developer who likes clean interfaces, dark screens and code that behaves itself.  
-> Mostly building things for the web, experimenting with software, and occasionally making computers question their life choices.
-
-```text
-┌─ PROFILE ───────────────────────────────────────────────────────────┐
-│                                                                                │
-│  handle       abaddonedxvii                                                    │
-│  alias        abaddonedxvii                                                    │
-│  field        Web Development                                                  │
-│  languages    Python · C++ · HTML · JavaScript · Java                          │
-│  style        dark / minimal / japanese / experimental                         │
-│                                                                                │
-│  「 静かなコード。強い結果。 」                                                     │
-│    quiet code. strong results.                                                 │
-│                                                                                │
-└────────────────────────────────────────────────────────────────────┘
 ```
 
 ## `02` /  技術スタック · stack

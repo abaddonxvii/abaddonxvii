@@ -1,14 +1,9 @@
 # `abaddonxvii`
-
 <p align="center">
-  <code><b>ABADDONXVII</b></code><br/>
+  <b><font size="+2">ABADDONXVII</font></b><br/>
   <sub>code / create / break / rebuild</sub>
 </p>
 
-
-<p align="center">
-<img src="./assets/pixel-art.jpg" width="100%" alt="ASCII portrait"/>
-</p>
 
 ```text
 ╔═══════════════════════════════════════════════════════════════════════════╗

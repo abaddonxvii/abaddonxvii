@@ -97,6 +97,17 @@
 | <img src="https://img.shields.io/badge/Burp_Suite-111111?style=flat-square&logo=burpsuite&logoColor=white"/> | web security testing, HTTP request manipulation & proxy |
 | <img src="https://img.shields.io/badge/Metasploit-111111?style=flat-square&logo=metasploit&logoColor=white"/> | exploit development & vulnerability verification |
 
+### 💻 Hardware & Gear
+
+| Icon | Spec / Device |
+|:---:|:---|
+| <img src="https://cdn.simpleicons.org/amd/white" width="20" height="20" alt="CPU"/> | AMD Ryzen 7 7735HS |
+| <img src="https://cdn.simpleicons.org/nvidia/white" width="20" height="20" alt="GPU"/> | NVIDIA GeForce RTX 4060 |
+| <img src="https://cdn.simpleicons.org/ram/white" width="20" height="20" alt="RAM"/> | 32 GB DDR5 |
+| <img src="https://cdn.simpleicons.org/archlinux/white" width="20" height="20" alt="Storage"/> | 2x 1 TB SSD  |
+| <img src="https://cdn.simpleicons.org/steamdeck/white" width="20" height="20" alt="Steam Deck"/> | Steam Deck OLED |
+| <img src="https://cdn.simpleicons.org/playstation/white" width="20" height="20" alt="Controller"/> | DualSense Wireless |
+
 
 ```text
                  .       .       .       .
@@ -176,6 +187,8 @@
 │                                                                     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
+ |
+
 
 <p align="center">
 <img src="./assets/ASCII-artgif.gif" width="100%" alt="ASCII portrait"/>

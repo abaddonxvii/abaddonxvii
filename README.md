@@ -96,8 +96,7 @@
 </p>
 
 ---
-
-## `03` /  GitHub · statistics
+## 03 / 統計 · statistics
 
 <p align="center">
   <a href="https://github.com/abaddonxvii">
@@ -129,7 +128,8 @@
 
 ---
 
-## `04` /  philosophy
+## 04 / 哲学 · philosophy
+
 
 ```text
         ┌─────────────────────────────────────────────┐

@@ -107,15 +107,22 @@
 
 <p align="center">
   <a href="https://github.com/abaddonxvii">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abaddonxvii&theme=2077" alt="Profile Details"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=abaddonxvii&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/abaddonxvii">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abaddonxvii&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abaddonxvii&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" alt="Most Used Languages"/>
   </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/abaddonxvii">
+    <img src="https://github-profile-trophy.vercel.app/?username=abaddonxvii&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies"/>
+  </a>
+</p>
+
 
 
 

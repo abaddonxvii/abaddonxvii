@@ -101,21 +101,16 @@
 
 <p align="center">
   <a href="https://github.com/abaddonedxvii">
-    <img src="https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api?username=abaddonedxvii&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=abaddonedxvii&theme=react-dark&bg_color=000000&hide_border=true&color=ffffff&line=ffffff&point=ffffff" alt="Activity Graph"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/abaddonedxvii">
-    <img src="https://github-readme-stats-git-masterrst-anuraghazru.vercel.app/api/top-langs/?username=abaddonedxvii&layout=compact&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&langs_count=8" alt="Top languages"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abaddonedxvii&theme=2077" alt="GitHub Profile Summary"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/abaddonedxvii">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abaddonedxvii&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff" alt="GitHub streak"/>
-  </a>
-</p>
 
 ---
 
